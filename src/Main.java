@@ -9,7 +9,7 @@ import java.util.Map;
 
 public class Main {
 
-    public static String url="http://192.168.0.18:8000/socketcluster/";
+    public static String url="ws://sc.qurba.io/socketcluster/";
 
     public static void main(String[] args) {
 //        System.out.println("Hello World!");
